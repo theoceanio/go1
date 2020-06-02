@@ -10,6 +10,7 @@
     "example",
     "heroku"
   ],
-  "author": "TBD",
+  "author": "TBD, ojo poque la etiqueta main no tengo claro para que es. 
+",
   "license": "TBD"
 }
